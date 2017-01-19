@@ -1,2 +1,2 @@
-# react-native-internet-monitor-view
-A Facebook messenger type internet alert that shows an alert when there is no internet connectivity 
+# react-native-internet-status-view
+A callout that's similiar to what facebook messengers shows during internet connectivity status change.
