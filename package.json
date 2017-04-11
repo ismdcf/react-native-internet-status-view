@@ -1,0 +1,32 @@
+{
+  "name": "react-native-internet-status-view",
+  "version": "0.0.0",
+  "description": "A callout that's similiar to what facebook messengers shows during internet connectivity status change.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismdcf/react-native-internet-status-view.git"
+  },
+  "keywords": [
+    "react-native-internet-status",
+    "internet",
+    "connectivity",
+    "status",
+    "react-native"			
+  ],
+  "author": "Ismail Iqbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismdcf/react-native-internet-status-view/issues"
+  },
+  "homepage": "https://github.com/ismdcf/react-native-internet-status-view#readme",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "directories": {
+    "example": "example"
+  }
+}
