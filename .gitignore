@@ -33,4 +33,5 @@ git@gitlablive.hsenidmobile.com:apptizer/ios-retail-template.git
 
 # idea ide
 *.idea
+**/.idea/workspace.xml **/.idea/tasks.xml
 .idea *
