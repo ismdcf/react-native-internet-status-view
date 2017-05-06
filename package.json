@@ -1,6 +1,6 @@
 {
   "name": "react-native-internet-status-view",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A callout that's similiar to what facebook messengers shows during internet connectivity status change.",
   "main": "index.js",
   "scripts": {
