@@ -1,5 +1,9 @@
+
+[![npm version](https://badge.fury.io/js/react-native-internet-status-view.svg)](https://badge.fury.io/js/react-native-internet-status-view)
+
 # react-native-internet-status-view
 A callout that's similiar to what facebook messengers shows during internet connectivity status change.
+
 
 ![Animated gif showing the animation when the internet is disconnected and reconnected ](https://raw.githubusercontent.com/ismdcf/react-native-internet-status-view/master/misc/internet_status_view.gif)
 
@@ -27,8 +31,9 @@ Place the component on where it wants to be appeared (mostly just below the root
 ## Accepted Props
 
 | Prop | Description | Default Value |
-|---|---|---|
+|---|:---|:---:|
 |**`textToDisplay`**| `String` The message you want the user to see. | No Internet Connection |
+|**`style`**| `object` The style of the outer text container | {{justifyContent: 'center',alignSelf: 'stretch',backgroundColor:"#e74c3c",height:25}}  |
 
 ## Contributions Are Welcomed To Make This Component a Cool One 
 

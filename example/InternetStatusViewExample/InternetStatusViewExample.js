@@ -22,7 +22,15 @@ export default class InternetStatusViewExample extends Component {
         return (
             <View style={styles.container}>
                 <InternetStatusView
+/*
                     textToDisplay="Sorry You're Not Connected to the Internet"
+*/
+                    style={{
+                        justifyContent: 'center',
+                        alignSelf: 'stretch',
+                        backgroundColor:"#e74c3c",
+                        height:25
+                    }}
                     />
                 <View style={styles.innerContainer}>
                     <Text style={styles.welcome}>

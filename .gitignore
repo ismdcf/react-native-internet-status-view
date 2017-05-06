@@ -30,3 +30,7 @@ node_modules
 
 # Created by .ignore support plugin (hsz.mobi)
 git@gitlablive.hsenidmobile.com:apptizer/ios-retail-template.git
+
+# idea ide
+*.idea
+.idea *

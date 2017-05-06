@@ -15,7 +15,7 @@
     "internet",
     "connectivity",
     "status",
-    "react-native"			
+    "react-native"
   ],
   "author": "Ismail Iqbal",
   "license": "ISC",
@@ -28,5 +28,6 @@
   },
   "directories": {
     "example": "example"
-  }
+  },
+  "dependencies": {}
 }
