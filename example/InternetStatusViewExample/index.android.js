@@ -1,9 +1,8 @@
-'use strict';
+'use strict'
 import React, {
-    AppRegistry,
-} from 'react-native';
+    AppRegistry
+} from 'react-native'
 
-import InternetStatusViewExample from './InternetStatusViewExample';
+import InternetStatusViewExample from './InternetStatusViewExample'
 
-AppRegistry.registerComponent('InternetStatusViewExample', () => InternetStatusViewExample);
-
+AppRegistry.registerComponent('InternetStatusViewExample', () => InternetStatusViewExample)

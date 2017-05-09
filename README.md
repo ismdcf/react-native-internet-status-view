@@ -1,6 +1,8 @@
 
 [![npm version](https://badge.fury.io/js/react-native-internet-status-view.svg)](https://badge.fury.io/js/react-native-internet-status-view)
 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 # react-native-internet-status-view
 A callout that's similiar to what facebook messengers shows during internet connectivity status change.
 
