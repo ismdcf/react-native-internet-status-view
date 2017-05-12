@@ -3,6 +3,8 @@
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+[![Build Status](https://travis-ci.org/ismdcf/react-native-internet-status-view.svg?branch=master)](https://travis-ci.org/ismdcf/react-native-internet-status-view)
+
 # react-native-internet-status-view
 A callout that's similiar to what facebook messengers shows during internet connectivity status change.
 
