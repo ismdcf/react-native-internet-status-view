@@ -1,5 +1,5 @@
 'use strict'
-import React, {
+import {
     AppRegistry
 } from 'react-native'
 

@@ -4,7 +4,7 @@
   "description": "A callout that's similiar to what facebook messengers shows during internet connectivity status change.",
   "main": "index.js",
   "scripts": {
-    "test": "nill"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -32,5 +32,10 @@
   "dependencies": {},
   "devDependencies": {
     "standard": "^10.0.2"
+  },
+  "standard": {
+    "ignore": [
+      "/example/InternetStatusViewExample/__tests__/"
+    ]
   }
 }
