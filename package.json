@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/ismdcf/react-native-internet-status-view#readme",
   "peerDependencies": {
-    "react-native": "*"
+    "react-native": "*",
+    "create-react-class": "^15.6.3"
   },
   "directories": {
     "example": "example"
